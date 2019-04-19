@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes on initial readings"
-categories: misc
+categories: reading
 ---
 
 Part of the scope of this project is that the student gets in touch with deep learning concepts, given the experience on the subject was a couple of class projects on artificial intelligence. 
