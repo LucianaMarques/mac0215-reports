@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First implementation of a Neural Network"
+title: "Deep Learning with Python Notebooks"
 categories: reading
 ---
 
@@ -9,5 +9,3 @@ While I document my notes on reading, I have already begun following the basic k
 The first tutorial is to create a simple neural network and use it on the MNIST database. 
 
 I will be posting all my work on [this github repository](https://github.com/LucianaMarques/simpleCNN/), which will be basically reproducing the tutorials, but I might as well make some modifications or personal notes on the work I get done. 
-
-
