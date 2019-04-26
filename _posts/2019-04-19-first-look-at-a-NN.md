@@ -110,4 +110,4 @@ This tutorial was followed to get the basics of Keras and to relate it to the kn
 
 A possible following step to this would be investigate why is this model producing an overfitting. And a certain next job is to continue with the subsequent tutorials.
 
-The final notebook produced by me on this first tutorial can be accessed here: (link)[https://github.com/LucianaMarques/simpleCNN/blob/master/Notebooks/A%20first%20simple%20NN.ipynb]
+The final notebook produced by me on this first tutorial can be accessed here: [link](https://github.com/LucianaMarques/simpleCNN/blob/master/Notebooks/A%20first%20simple%20NN.ipynb)
